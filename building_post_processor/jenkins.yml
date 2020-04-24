@@ -10,5 +10,5 @@
 
   roles:
     - geerlingguy.jenkins
-    - geerlingguy.packer
+    - geerlingguy.ansible-role-packer
     - geerlingguy.ansible
